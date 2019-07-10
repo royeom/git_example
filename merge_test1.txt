@@ -1,4 +1,7 @@
 This is for test merge!
 2nd line was written on Master.
+Master: This line is gonna be a problem
+
+
 3rd line was written on Test Branch.
 
